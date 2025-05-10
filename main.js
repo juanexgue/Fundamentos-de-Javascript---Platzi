@@ -5,6 +5,12 @@ import { setupCounter } from './counter.js'
 
 document.querySelector('#app').innerHTML = `
   <h1>My projects</h1>
+    <div>
+    <a href="task.html" target="_blank" class="logo"> 
+      TASK MANAGER
+    </a>
+  </div>
+  <br/>
   <div>
     <a href="post.html" target="_blank" class="logo"> 
       POST
