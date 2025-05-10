@@ -16,6 +16,12 @@ document.querySelector('#app').innerHTML = `
       EVENTOS
     </a>
   </div>
+    <br/>
+     <div>
+    <a href="eventCorreo.html" target="_blank" class="logo"> 
+      EVENTO CORREO
+    </a>
+  </div>
 `
 
 setupCounter(document.querySelector('#counter'))
